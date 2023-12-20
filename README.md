@@ -7,7 +7,7 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 ```sh
 npx create-expo-app -e with-router
 ```
-run npm start to get QR code to scan and transfer to the application
+run npm start to get the QR code to be moved to the application
 
 ## 📝 Notes
 
